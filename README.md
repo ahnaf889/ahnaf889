@@ -1,6 +1,6 @@
 <div align="center">
  <img src="https://s13.gifyu.com/images/SCuzx.gif" alt="js" border="2" />
-<img width="100%" hight="100%" src="https://www.pinterest.com/pin/142707881940849596/" align="center" style="width: 200%" />
+<img width="100%" hight="100%" src="https://i.ibb.co/PmS7gb0/js.gif" align="center" style="width: 200%" />
 </div>
 
 ### <div align="center">🚀 I'm Ahnaf Junior, A  Full Stack Web Developer 👨‍💻. I strive to create dynamic, original, and impactful User Experiences & web applications 🚀
